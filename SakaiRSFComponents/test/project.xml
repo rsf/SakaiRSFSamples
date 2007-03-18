@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project>
   <pomVersion>3</pomVersion>
-  <extend>../../master/project.xml</extend>
+  <extend>../../../master/project.xml</extend>
   <artifactId>SakaiRSFComponents-test</artifactId>
   <name>Sakai RSF Components Test Webapp</name>
   <groupId>sakairsf</groupId>
