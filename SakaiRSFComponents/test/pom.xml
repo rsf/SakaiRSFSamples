@@ -8,7 +8,7 @@
   <parent>
     <groupId>uk.org.ponder.pure-poms</groupId>
     <artifactId>standard-sakai-tool</artifactId>
-    <version>POM-3</version>
+    <version>POM-4</version>
   </parent>
   <name>Sakai RSF Components Test Tool</name>
   <groupId>uk.org.ponder.sakairsf</groupId>
