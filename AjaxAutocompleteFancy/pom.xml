@@ -15,7 +15,7 @@
   <parent>
     <groupId>uk.org.ponder.pure-poms</groupId>
     <artifactId>standard-sakai-tool</artifactId>
-    <version>POM-3</version>
+    <version>POM-4-SNAPSHOT</version>
   </parent>
   <version>${rsfutil.version}-sakai_${sakairsf.sakai.version}</version>
   <properties>
